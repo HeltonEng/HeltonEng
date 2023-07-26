@@ -8,5 +8,5 @@ Oi! Eu sou Helton Oliveira👋
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas no penultimo periodo.
 - 👯 Estou atualmente desenvolvento o AmigoPet como projeto do curso.
   Onde estou utilizando o Android Studio e linguagem Java e para persistencia de dados o Firebase .
-- 📫 Como chegar até mim: linkedin.com/in/helton-oliveira-ba25577a
+- 📫 Como chegar até mim: <a href="https://br.linkedin.com/in/helton-oliveira-ba25577a">Linkedin</a>
 
